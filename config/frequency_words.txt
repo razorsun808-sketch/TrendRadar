@@ -10,8 +10,6 @@ SINOMACH
 审计
 外贸
 微软
-Microsoft
-英伟达
 南京
 一人公司
 AMD
